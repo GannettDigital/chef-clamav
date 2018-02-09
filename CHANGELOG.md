@@ -1,8 +1,8 @@
 ClamAV Cookbook CHANGELOG
 =========================
-
-Unreleased
-----------
+v1.3.1 (2018-02-09)
+-------------------
+* Updated dependency for chef 13
 
 v1.3.0 (2016-02-05)
 -------------------
